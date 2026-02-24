@@ -1,0 +1,1 @@
+//! MMIO register emulation
